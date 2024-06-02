@@ -46,7 +46,7 @@ Soy estudiante de Ingeneria en Informatica desde Marzo 2024.
 <img width="10" />
 <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="25" alt="markdown logo"  />
 
-<image src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
 </div>
 
 
