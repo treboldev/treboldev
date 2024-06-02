@@ -1,6 +1,6 @@
 # Hola, mi nombre es David Villegas 👋
 
-Soy estudiante de Ingeneria en Informatica desde el año Marzo 2024.
+Soy estudiante de Ingeneria en Informatica desde Marzo 2024.
 
 ## Tecnologias que pretendo dominar en esta aventura.
 <br clear="both">
