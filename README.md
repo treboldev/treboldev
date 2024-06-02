@@ -4,8 +4,6 @@ Soy estudiante de Ingeneria en Informatica desde Marzo 2024.
 
 <br clear="both">
 
-
-
 <div align = "center">
 
 ### Programming languages:
