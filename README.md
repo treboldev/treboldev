@@ -4,9 +4,11 @@ Soy estudiante de Ingeneria en Informatica desde Marzo 2024.
 
 <br clear="both">
 
-### Programming languages:
+
 
 <div align = "center">
+
+### Programming languages:
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
 <img width="10" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
@@ -16,9 +18,10 @@ Soy estudiante de Ingeneria en Informatica desde Marzo 2024.
 <br clear="both">
 </div>
 
-### Frontend development:
 
 <div align = "center">
+
+### Frontend development:
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
 <img width="10" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
@@ -34,8 +37,10 @@ Soy estudiante de Ingeneria en Informatica desde Marzo 2024.
 </div>
 <br clear="both">
 
-### Databases:
+
 <div align = "center">
+
+### Databases:
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
 <img width="10" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
@@ -48,8 +53,10 @@ Soy estudiante de Ingeneria en Informatica desde Marzo 2024.
 <img width="10" />
 </div>
 
-### Misc tools:
+
 <div align = "center">
+
+### Misc tools:
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
 <img width="10" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
@@ -59,11 +66,13 @@ Soy estudiante de Ingeneria en Informatica desde Marzo 2024.
 
 
 
-## Encuéntrame en mis redes sociales:
+
 
 <br clear="both">
 
 <div align="center">
+
+## Encuéntrame en mis redes sociales:
   <a href="https://www.instagram.com/treboldev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
