@@ -50,7 +50,9 @@ Soy estudiante de Ingeneria en Informatica desde Marzo 2024.
 </div>
 
 
+## [Python](../2.-Estudios/README.md)
 
+![Banner](../2.-Estudios/Python/Python_Github_Banner.png)
 
 
 
